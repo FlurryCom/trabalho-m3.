@@ -8,18 +8,18 @@ body{
 }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Montserrat", sans-serif; /* Define a fonte para os cabeçalhos */
+    font-family: "Montserrat", sans-serif; 
   }
   
   p {
-    font-family: "Montserrat", sans-serif; /* Define a fonte para os parágrafos */
+    font-family: "Montserrat", sans-serif; 
   }
   
   ul, ol {
-    font-family: "Montserrat", sans-serif; /* Define a fonte para as listas não ordenadas e ordenadas */
+    font-family: "Montserrat", sans-serif; 
   }
   
-  /* Adicione mais elementos conforme necessário */
+
   
 .navbar {
     background-color: #FFAD12 !important;
@@ -263,11 +263,11 @@ p.h1 span{
 
 .about-section {
     padding: 50px 0;
-    background-color: #f8f9fa; /* Cor de fundo */
+    background-color: #f8f9fa; 
 }
 
 .about-section h1 {
-    color: #333; /* Cor do título */
+    color: #333; 
 }
 
 .about-section p {
@@ -276,7 +276,7 @@ p.h1 span{
 }
 
 .logo-container img {
-    max-height: 80px; /* Ajuste o tamanho do logo conforme necessário */
+    max-height: 80px; 
 }
 
 /*PARTE DAS AULAS*/
