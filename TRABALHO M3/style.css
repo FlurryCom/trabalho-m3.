@@ -118,7 +118,7 @@ p.h1 span{
 
 .aplicativo h1{
     font-weight: 24rem;
-    margin-left: 270px;
+    margin-left: 150px;
     font-weight: bold;
     font-family: "Montserrat", sans-serif !important;
     font-size: 40px;
@@ -128,13 +128,13 @@ p.h1 span{
 
 .aplicativo h2{
     font-weight: 24rem;
-    margin-left: 270px;
+    margin-left: 150px;
     word-spacing: -5px;
 }
 
 .aplicativo ul{
     font-weight: 24rem;
-    margin-left: 270px;
+    margin-left: 150px;
 }
 #cardaulas1{
     text-align: left;
@@ -149,13 +149,15 @@ p.h1 span{
     background-color: rgb(255, 240, 152); 
     width: 450px;
     height: 360px;
-    margin-right: 250px;
+    margin-right: 150px;
+    margin-left: 100px;
     border-radius: 50px;
     display: flex; 
     justify-content: center; 
     align-items: flex-end; 
     overflow: hidden; 
     position: relative;
+  
 }
 
 .footer .logo-container {
@@ -284,7 +286,7 @@ p.h1 span{
 /*PARTE DO APP*/
 
 #btapp{
-    margin-right: 250px;
+    margin-right: 120px;
 }
 
 /*PARTE DO CONTATO*/
